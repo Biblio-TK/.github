@@ -36,7 +36,7 @@ Nuestra arquitectura está dividida en **4 repositorios principales** para mante
 | 🛠️ [**`backend`**](https://github.com/Biblio-TK/bibliotk-backend) | **NestJS**, TypeScript, REST API / OpenAPI | API central encargada de la lógica de negocio, autenticación/autorización, validaciones y comunicación con la base de datos. |
 | 💻 [**`frontend`**](https://github.com/Biblio-TK/bibliotk-frontend) | **Angular**, TypeScript, RxJS | Aplicación web SPA (Single Page Application) que provee la interfaz de usuario tanto para el panel administrativo como para el catálogo público. |
 | 🐳 [**`infra`**](https://github.com/Biblio-TK/bibliotk-infra) | **Docker**, **PostgreSQL**, **Nginx** | Configuración de infraestructura, archivos `docker-compose`, inicialización y persistencia de base de datos, y configuración de Nginx como *reverse proxy*. |
-| 📄 [**`docs`**](#) | **Markdown**, Diagramas, OpenAPI | Documentación técnica del proyecto: arquitectura de software, modelo entidad-relación (MER), guías de estilo, estándares de Git y manuales de usuario. |
+| 📄 [**`docs`**](https://github.com/Biblio-TK/bibliotk-docs) | **Markdown**, Diagramas, OpenAPI | Documentación técnica del proyecto: arquitectura de software, modelo entidad-relación (MER), guías de estilo, estándares de Git y manuales de usuario. |
 
 
 ---
