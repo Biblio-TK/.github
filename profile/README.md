@@ -39,20 +39,6 @@ Nuestra arquitectura está dividida en **4 repositorios principales** para mante
 | 📄 [**`docs`**](#) | **Markdown**, Diagramas, OpenAPI | Documentación técnica del proyecto: arquitectura de software, modelo entidad-relación (MER), guías de estilo, estándares de Git y manuales de usuario. |
 
 
----
-
-## 🚀 Inicio Rápido (Entorno de Desarrollo)
-
-Para levantar el ecosistema completo en un entorno local, dirígete al repositorio **`infra`** y sigue las instrucciones detalladas allí. A grandes rasgos, el flujo consiste en:
-
-1. Clonar los repositorios necesarios o el orquestador en `infra`.
-2. Configurar las variables de entorno basándote en los archivos `.env.example`.
-3. Levantar los contenedores con Docker Compose:
-   ```bash
-   docker compose up -d --build
-   ```
-
----
 
 ## 👥 Nuestro Equipo
 
@@ -60,11 +46,11 @@ Este proyecto es desarrollado y mantenido con dedicación por:
 
 | Integrante | Rol Principal | GitHub |
 | :--- | :--- | :--- |
-| **Jose Enrique Guereca Muñoz** | Backend & Arquitectura | [@EGuereca](https://github.com/EGuereca) |
-| **Jesus Manuel De la Rosa Guillen** | Frontend & UI/UX | [@LGSUSDLR](https://github.com/LGSUSDLR) |
-| **Iker Jesus Flores Luna** | DevOps, Infraestructura & DB | [@IKER1208](https://github.com/IKER1208) |
-| **Jesus Emilio Olvera Cortinas** | Backend & Documentación | [@KoeEmilio](https://github.com/KoeEmilio) |
-| **David Jonatan Castañeda Valenzuela** | Frontend & QA Testing | [@Deivid777](https://github.com/Deivid777) |
+| **Jose Enrique Guereca Muñoz** | Product Owner | [@EGuereca](https://github.com/EGuereca) |
+| **Jesus Manuel De la Rosa Guillen** | Scrum Master | [@LGSUSDLR](https://github.com/LGSUSDLR) |
+| **Iker Jesus Flores Luna** | Development Team | [@IKER1208](https://github.com/IKER1208) |
+| **Jesus Emilio Olvera Cortinas** | Development Team | [@KoeEmilio](https://github.com/KoeEmilio) |
+| **David Jonatan Castañeda Valenzuela** | Development Team | [@Deivid777](https://github.com/Deivid777) |
 
 ---
 
